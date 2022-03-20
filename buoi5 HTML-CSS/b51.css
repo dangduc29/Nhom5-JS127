@@ -1,0 +1,30 @@
+code {
+  background: #2DB34A ;
+  border-radius: 6px ;
+  color: #fff;
+  padding: 24px 15px;
+  text-align: center;
+}
+header,
+section,
+aside,
+footer {
+  margin: 10px 0;
+  background-color: #2DB34A ; 
+  border-radius: 6px;
+}
+section { 
+  width: 30%;
+  display: flex;
+  justify-content: center;
+}
+footer, header {
+  margin-bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
